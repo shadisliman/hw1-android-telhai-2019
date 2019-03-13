@@ -2,5 +2,5 @@
 hw1
 shadi sliman
 ahmad naamneh
-hoseen khalelieh
+houseen khleleh
 hamza abutayeh
