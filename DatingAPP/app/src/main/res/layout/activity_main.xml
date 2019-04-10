@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/hearts"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/mainTxt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="25dp"
+        android:gravity="center_horizontal"
+        android:textStyle="bold"
+        android:text="Find your Soulmate"
+        android:textColor="@android:color/holo_red_light"
+        android:textSize="40dp" />
+
+    <Button
+        android:id="@+id/btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_marginBottom="55dp"
+        android:layout_alignParentBottom="true"
+        android:text="people near you"
+        android:background="@android:color/holo_red_light"
+        android:textColor="@android:color/black"
+        android:textSize="20dp" />
+
+
+
+
+
+</RelativeLayout>
